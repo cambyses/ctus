@@ -4,7 +4,7 @@ meta_description: "Blogging"
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 paginate: 20
