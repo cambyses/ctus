@@ -1,6 +1,7 @@
 name: Kambiz Behi
 description: Blog
 meta_description: "Blogging"
+baseurl: /
 
 aboutPage: true
 
