@@ -2,7 +2,7 @@ name: Kambiz Behi
 description: Blog
 meta_description: "Blogging"
 baseurl: /ctus
-exclude:['README.md']
+exclude: ['README.md']
 
 aboutPage: true
 
