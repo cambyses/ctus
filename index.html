@@ -35,13 +35,21 @@ title: "ctus"
 
   {% include navigation.html %}
 
+
+
+
+
   {% if page.profile %}
       {% include profile.html %}
   {% endif %}
 
+
+
   <section id="wrapper" class="{% if page.profile %}home{% endif %}">
     {{ content }}
   </section>
+
+
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="{{ site.baseurl }}assets/js/main.js"></script>
